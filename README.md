@@ -136,6 +136,6 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ---
 
-### Author
-* **Bisrat Demere ** - (https://github.com/bisrat-demere)
-* **Beza Abera ** - (https://github.com/BezaB10)
+### Author)
+* *Seblemariam Demie
+* *Yishak Abrham Epherem
